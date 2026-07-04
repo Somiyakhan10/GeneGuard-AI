@@ -76,16 +76,6 @@ The model is evaluated using:
 ### PCA Visualization
 <img width="1082" height="591" alt="image" src="https://github.com/user-attachments/assets/61aee6b3-0a65-4368-90c0-718dbb5d1118" />
 
----
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Somiyakhan10/GeneGuard-AI.git
-```
-
-Navigate to the project directory:
 
 ## Future Improvements
 
